@@ -20,4 +20,4 @@ A simple web-based wallet interface for Solana, built with React and TypeScript.
 - Tailwind CSS
 
 This project provides basic wallet functionality on Solana's Devnet for testing and development purposes.
-# Desktop
+
